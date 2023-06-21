@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   
 <b>DBMS</b><br>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
@@ -50,12 +51,6 @@
 
 </div>
 
-HTML. CSS. JS, REACT
-
-JAVA,JPA,Spring Boot
-
-Oracle, MySql
-![image](https://github.com/haeunyy/MoaWare-front/assets/120347036/ea452b2e-04db-4b2b-b8ad-7da15e9d2405)
 
 # ✅주요기능
 
