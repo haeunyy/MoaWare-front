@@ -20,7 +20,8 @@
   - 팀원 전효진 - 메인페이지,CSS 총괄, 일정관리, 산출물 관리
 
 # ⚡Tech Stack⚡
-https://camo.githubusercontent.com/2c0ae5c92d5778774470c8ddfefadab80e0965570027169c9f456f86d11e0e25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d7265643f7374796c653d666c61742d737175617265266c6f676f3d6a5175657279266c6f676f436f6c6f723d7768697465
+![image](https://github.com/haeunyy/MoaWare-front/assets/120347036/f89ceaa3-1616-41da-81d2-e7de3e8c58c5)
+
 HTML. CSS. JS, REACT
 
 JAVA,JPA,Spring Boot
