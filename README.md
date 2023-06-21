@@ -20,6 +20,11 @@
   - 팀원 전효진 - 메인페이지,CSS 총괄, 일정관리, 산출물 관리
 
 # ⚡Tech Stack⚡
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+
+  <br>
+</div>
 ![image](https://github.com/haeunyy/MoaWare-front/assets/120347036/f89ceaa3-1616-41da-81d2-e7de3e8c58c5)
 ![image](https://github.com/haeunyy/MoaWare-front/assets/120347036/d4486daf-9b34-48ab-8dd6-42ad0ec90771)
 ![image](https://github.com/haeunyy/MoaWare-front/assets/120347036/df63551b-a2f7-4e92-9b50-d08781782f52)
