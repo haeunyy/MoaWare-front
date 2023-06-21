@@ -20,20 +20,17 @@
   - 팀원 전효진 - 메인페이지,CSS 총괄, 일정관리, 산출물 관리
 
 # ⚡Tech Stack⚡
-<div align=left> 
 <b>front-end</b><br>
 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML5-00599C?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F6C915?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <br>
 **Back-end** 
 <br><br>
-<img src="https://img.shields.io/badge/JDK 1.8-important?style=flat-square&logo=JDK &logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring 5.3-green?style=flat-square&logo=JDK &logoColor=white"/>
-<img src="https://img.shields.io/badge/Mybatis-brightgreen?style=flat-square&logo=JSTL&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-yellowgreen?style=flat-square&logo=JSP&logoColor=white"/>
+<img src="https://img.shields.io/badge/jdk 11-007396??style=flat-square&logo=JDK &logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> 
 <img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/>
 
 <br>
@@ -42,8 +39,6 @@
   <img src="https://img.shields.io/badge/jpa-557C94?style=for-the-badge&logo=jpa&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <br>
-
-</div>
 
 
 # ✅주요기능
