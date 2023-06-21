@@ -32,13 +32,17 @@ JDK 11, springboot, JPA
 
 oracle, Mysql
 
+<b>server</b><br>
+
+linux, docker, aws
+
 <b>tool</b><br>
 
 github, slack, figma
 
+
 # ✅주요기능
 
----
 
 - 로그인 - 아이디 비밀번호 입력, 아이디 찾기, 비밀번호 찾기
 - 메인 페이지 - 출 퇴근 버튼 연동, 게시판 및 프로젝트 조회, 날씨 확인
